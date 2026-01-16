@@ -1,0 +1,8 @@
+
+{
+  "name": "CULTIV",
+  "description": "Cultivate discipline. A botanical habit tracker featuring the Harvest spectrum and life root progression.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
